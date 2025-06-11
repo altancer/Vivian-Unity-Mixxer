@@ -1,0 +1,16 @@
+
+
+⬡  2025/02/12 10:23:51 BlenderKit-Client v1.2.1 started from Blender add-on v3.13.0.241112
+	port=62485
+	server=https://www.blenderkit.com
+	proxy_which=SYSTEM
+	proxy_address=
+	trusted_ca_certs=
+	ssl_context=ENABLED
+	pid=2240
+⬡  2025/02/12 10:23:51 ✅ Using proxy settings from system network settings
+2025/02/12 10:23:51 [proxy.Provider.readWinHttpProxy] No proxy discovered via AutoDetect: winapi error #12180
+⬡  2025/02/12 10:23:51 🔒 SSL verification is enabled
+⬡  2025/02/12 10:23:51 🤝 Blender (v4.2.3, add-on v3.13.0.241112) subscribed: 2240
+<- 2025/02/12 10:23:52 ✅ categories_update (8031477a-e43f-4928-8f8c-edfa5efb3bd7)
+<- 2025/02/12 10:23:52 ✅ disclaimer (58b7688f-c69b-41fe-a6cb-6633c74f9f47)
